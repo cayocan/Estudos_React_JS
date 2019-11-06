@@ -1,0 +1,47 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+}
+
+.App-header {
+    background-color: #721e83;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #09d3ac;
+}
+
+.h1NewStyle {
+    color: coral;
+    font-style: italic;
+}
+
+.FirstComponent {
+    color: chartreuse;
+    font-style: italic;
+}
+
+.SecondComponent {
+    color: brown;
+    font-style: italic;
+}
+
+.ThirdComponent {
+    color: aquamarine;
+    font-style: italic;
+}
+
+.FourthComponent {
+    color: pink;
+    font-style: italic;
+}
